@@ -14,6 +14,7 @@ Criação de Componentes...
 ## :soon: Implementação futura
 * Toobar-Nav;
 * Button;
+* Input;
 
 ## :handshake: Colaboradores
 <table>
